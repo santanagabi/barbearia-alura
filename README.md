@@ -1,4 +1,6 @@
-# Barbearia Alura [HiroshiSeRelajaMientrasLeAfeitanGIF](https://user-images.githubusercontent.com/95951195/161469689-187847ca-1197-4411-874b-ddd4a2e50229.gif)
+# Barbearia Alura ![HiroshiSeRelajaMientrasLeAfeitanGIF](https://user-images.githubusercontent.com/95951195/161470916-ded673f5-d552-4c87-bcc7-5167c4d7d74b.gif)
+ 
+ 
 ### Através do projeto desenvolvido o cliente tem acesso:  
   #### - Home
   #### - Produtos
