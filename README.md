@@ -6,4 +6,6 @@
   #### - Contato
 
 
-Projeto feito através da plataforma Alura <a href="https://www.alura.com.br/">, com as tecnologias de Web: HTML e CSS além de utilizar o design responsivo.
+<a href="https://www.alura.com.br/">, projeto feito através da plataforma Alura 
+  
+Com as tecnologias de Web: HTML e CSS além de utilizar o design responsivo. 🚀🚀
